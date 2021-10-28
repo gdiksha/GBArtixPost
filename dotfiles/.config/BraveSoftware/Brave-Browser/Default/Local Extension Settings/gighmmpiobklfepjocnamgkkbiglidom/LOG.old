@@ -1,0 +1,19 @@
+2021/10/26-18:46:26.394 3c19 Reusing MANIFEST /home/gaurav/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2021/10/26-18:46:26.394 3c19 Recovering log #131
+2021/10/26-18:46:26.720 3c19 Level-0 table #134: started
+2021/10/26-18:46:27.181 3c19 Level-0 table #134: 6715523 bytes OK
+2021/10/26-18:46:27.234 3c19 Delete type=0 #131
+2021/10/26-18:47:38.993 3c5c Level-0 table #137: started
+2021/10/26-18:47:39.340 3c5c Level-0 table #137: 6715415 bytes OK
+2021/10/26-18:47:39.348 3c5c Delete type=0 #135
+2021/10/26-18:47:39.353 3c5c Compacting 4@0 + 2@1 files
+2021/10/26-18:47:39.784 3c5c Generated table #138@0: 1 keys, 6715333 bytes
+2021/10/26-18:47:39.789 3c5c Generated table #139@0: 4 keys, 352 bytes
+2021/10/26-18:47:39.789 3c5c Compacted 4@0 + 2@1 files => 6715685 bytes
+2021/10/26-18:47:39.792 3c5c compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/10/26-18:47:39.793 3c5c Delete type=2 #132
+2021/10/26-18:47:39.793 3c5c Delete type=2 #130
+2021/10/26-18:47:39.793 3c5c Delete type=2 #137
+2021/10/26-18:47:39.793 3c5c Delete type=2 #127
+2021/10/26-18:47:39.793 3c5c Delete type=2 #134
+2021/10/26-18:47:39.793 3c5c Delete type=2 #128

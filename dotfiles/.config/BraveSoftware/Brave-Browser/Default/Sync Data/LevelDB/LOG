@@ -1,0 +1,6 @@
+2021/10/26-21:09:49.314 436 Reusing MANIFEST /home/gaurav/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/10/26-21:09:49.317 436 Recovering log #21
+2021/10/26-21:09:49.325 436 Reusing old log /home/gaurav/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000021.log 
+2021/10/26-21:13:44.138 45f Level-0 table #25: started
+2021/10/26-21:13:44.166 45f Level-0 table #25: 74032 bytes OK
+2021/10/26-21:13:44.173 45f Delete type=0 #21

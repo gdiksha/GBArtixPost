@@ -1,0 +1,6 @@
+{
+ "default.route.alsa_card.pci-0000_00_1b.0:profile:off": [ ],
+ "default.route.alsa_card.platform-cht-bsw-max98090:profile:off": [ ],
+ "default.route.alsa_card.platform-cht-bsw-max98090:profile:HiFi": [ "[Out] Speaker" ],
+ "default.route.alsa_card.platform-cht-bsw-max98090:output:[Out] Speaker": { "mute": false, "volumes": [ 0.121396, 0.121396 ], "channels": [ "FL", "FR" ], "latencyOffsetNsec": 0 }
+}
