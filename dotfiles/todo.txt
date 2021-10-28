@@ -1,4 +1,0 @@
-setup mpv
-automate setup process
-setup git
-
