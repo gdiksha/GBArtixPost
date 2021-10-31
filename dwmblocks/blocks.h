@@ -1,6 +1,8 @@
 //Modify this file to change what commands output to your statusbar, and recompile using the make command.
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/							/*Update Interval*/	/*Update Signal*/
+	{"IP: ",	"ip a | awk 'FNR==9 {print \"/ \" $2}'",			60,			0},
+	
 	{"Disk: ", 	"df -h / | awk 'FNR==2 {print $3 \" / \" $4}'",			3600, 			0},
 
 	{"Mem: ", 	"free -h | awk '/^Mem/ { print $3\" / \"$2 }' | sed s/i//g",	30,			0},
