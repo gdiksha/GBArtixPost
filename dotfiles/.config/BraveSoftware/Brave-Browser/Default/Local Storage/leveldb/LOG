@@ -1,3 +1,6 @@
-2021/10/26-21:09:49.249 5 Reusing MANIFEST /home/gaurav/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2021/10/26-21:09:49.259 5 Recovering log #18
-2021/10/26-21:09:49.266 5 Reusing old log /home/gaurav/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000018.log 
+2021/11/02-19:28:39.503 5 Reusing MANIFEST /home/gaurav/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2021/11/02-19:28:39.519 5 Recovering log #22
+2021/11/02-19:28:39.524 5 Reusing old log /home/gaurav/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000022.log 
+2021/11/02-20:09:42.599 12 Level-0 table #26: started
+2021/11/02-20:09:42.630 12 Level-0 table #26: 97018 bytes OK
+2021/11/02-20:09:42.639 12 Delete type=0 #22

@@ -1,0 +1,27 @@
+2021/11/02-19:28:41.966 4a9 Reusing MANIFEST /home/gaurav/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2021/11/02-19:28:41.967 4a9 Recovering log #36
+2021/11/02-19:28:42.017 4a9 Reusing old log /home/gaurav/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000036.log 
+2021/11/02-19:31:47.352 4aa Level-0 table #40: started
+2021/11/02-19:31:47.505 4aa Level-0 table #40: 2335932 bytes OK
+2021/11/02-19:31:47.517 4aa Delete type=0 #36
+2021/11/02-19:40:20.979 9bb Level-0 table #42: started
+2021/11/02-19:40:21.093 9bb Level-0 table #42: 1461536 bytes OK
+2021/11/02-19:40:21.099 9bb Delete type=0 #39
+2021/11/02-19:46:23.619 ca8 Level-0 table #44: started
+2021/11/02-19:46:23.725 ca8 Level-0 table #44: 1364079 bytes OK
+2021/11/02-19:46:23.737 ca8 Delete type=0 #41
+2021/11/02-19:46:23.740 ca8 Compacting 4@0 + 3@1 files
+2021/11/02-19:46:23.960 ca8 Generated table #45@0: 17 keys, 2671097 bytes
+2021/11/02-19:46:24.087 ca8 Generated table #46@0: 19 keys, 1210307 bytes
+2021/11/02-19:46:24.087 ca8 Compacted 4@0 + 3@1 files => 3881404 bytes
+2021/11/02-19:46:24.091 ca8 compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/11/02-19:46:24.092 ca8 Delete type=2 #37
+2021/11/02-19:46:24.092 ca8 Delete type=2 #42
+2021/11/02-19:46:24.092 ca8 Delete type=2 #44
+2021/11/02-19:46:24.093 ca8 Delete type=2 #33
+2021/11/02-19:46:24.093 ca8 Delete type=2 #34
+2021/11/02-19:46:24.093 ca8 Delete type=2 #32
+2021/11/02-19:46:24.093 ca8 Delete type=2 #40
+2021/11/02-19:51:25.815 9bb Level-0 table #48: started
+2021/11/02-19:51:25.962 9bb Level-0 table #48: 2747044 bytes OK
+2021/11/02-19:51:25.967 9bb Delete type=0 #43

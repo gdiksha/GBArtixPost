@@ -1,5 +1,5 @@
 pacman -Suyyy
-pacman -S git
+pacman -S - < pkglist.txt 
 
 git clone https://github.com/gbhattarai/GBArtixPost.git
 
