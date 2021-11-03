@@ -25,4 +25,6 @@ cd ..
 cp dotfiles/* ~/
 cp -r dotfiles/.* ~/
 
+cp -r startup/ /run/runit/service/
+
 sudo pacman -Ss 
